@@ -1,0 +1,6 @@
+name: Python unittest action
+description: GitHub action that executes lininting and unittests on python code.
+
+runs:
+  using: docker
+  image: Dockerfile
