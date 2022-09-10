@@ -24,4 +24,4 @@ fi
 # following best practice guidelines:
 # https://docs.pytest.org/en/7.1.x/explanation/goodpractices.html#conventions-for-python-test-discovery
 echo -e "\nExecuting unit tests..."
-pytest
+pytest -s
